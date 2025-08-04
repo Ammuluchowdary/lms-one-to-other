@@ -90,3 +90,7 @@
 #### to check backend use port-forward cmd
 - kubectl port-forward service/lms-fe-service 32200:80 --address 0.0.0.0
 - check in browser: pub-ip:32200
+
+## REACT JS v20- Presentation tier
+## NODE JS v20- Application tier
+## POSTGRES v16- Database
